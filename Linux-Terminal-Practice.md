@@ -9,7 +9,7 @@ I am learning how to use Linux for cybersecurity and system administration purpo
 
 ## What I practiced
 
-- Basic terminal navigation (cd, ls, pwd)
+- **Basic terminal navigation** (cd, ls, pwd)
 - File and directory management (mkdir, touch, cp, mv, rm)
 - File permissions (chmod, chown)
 - Basic bash commands
