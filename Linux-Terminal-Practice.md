@@ -19,9 +19,9 @@ I am learning how to use Linux for cybersecurity and system administration purpo
 
 ## Tools used
 
-- Linux terminal
-- Bash shell
-- GitHub
+- **Linux terminal**
+- **Bash shell**
+- **GitHub**
 
 ---
 
