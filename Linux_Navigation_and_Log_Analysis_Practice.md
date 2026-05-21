@@ -1,5 +1,3 @@
-<img width="714" height="609" alt="Знімок екрана 2026-05-20 о 8 43 43 пп" src="https://github.com/user-attachments/assets/11be773b-1d2a-43bb-9182-1dff70719d84" />
-<img width="714" height="609" alt="Знімок екрана 2026-05-20 о 8 43 43 пп" src="https://github.com/user-attachments/assets/b0950a0d-ae1c-4a87-8b3a-4e883fbb314d" />
 # Linux Navigation and Log Analysis Practice
 
 In this lab I practiced basic Linux terminal navigation, file inspection, and log analysis using command-line tools.
@@ -52,3 +50,4 @@ head server_logs.txt
 - Reading text and log files
 - Basic log analysis
 - Cybersecurity monitoring fundamentals
+<img width="714" height="609" alt="Знімок екрана 2026-05-20 о 8 43 43 пп" src="https://github.com/user-attachments/assets/11be773b-1d2a-43bb-9182-1dff70719d84" />
