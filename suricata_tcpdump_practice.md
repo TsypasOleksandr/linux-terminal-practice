@@ -18,6 +18,8 @@ apt list --installed
 ```bash
 sudo apt remove suricata
 ```
+<img width="709" height="408" alt="Знімок екрана 2026-05-20 о 8 25 19 пп" src="https://github.com/user-attachments/assets/d3b636d2-e356-47c9-bad9-df6df4fe46a7" />
+
 
 ### Install Tcpdump
 ```bash
