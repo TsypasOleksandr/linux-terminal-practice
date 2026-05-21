@@ -8,6 +8,7 @@ In this lab I practiced installing and removing network security tools in Linux 
 ```bash
 sudo apt install suricata
 ```
+<img width="720" height="766" alt="Знімок екрана 2026-05-20 о 8 16 37 пп" src="https://github.com/user-attachments/assets/6c2802a9-2d96-4d8b-b5b4-7e4741f72bad" />
 
 ### Check installed packages
 ```bash
@@ -26,6 +27,7 @@ sudo apt remove suricata
 ```bash
 sudo apt install tcpdump
 ```
+<img width="720" height="573" alt="Знімок екрана 2026-05-20 о 8 21 11 пп" src="https://github.com/user-attachments/assets/332bd8c2-5783-4fbd-9b23-47c1e499ce6c" />
 
 ## Skills Practiced
 
@@ -34,5 +36,3 @@ sudo apt install tcpdump
 - Installing and removing software
 - Basic cybersecurity tools
 - Network monitoring fundamentals
-<img width="720" height="573" alt="Знімок екрана 2026-05-20 о 8 21 11 пп" src="https://github.com/user-attachments/assets/332bd8c2-5783-4fbd-9b23-47c1e499ce6c" />
-<img width="720" height="766" alt="Знімок екрана 2026-05-20 о 8 16 37 пп" src="https://github.com/user-attachments/assets/6c2802a9-2d96-4d8b-b5b4-7e4741f72bad" />
